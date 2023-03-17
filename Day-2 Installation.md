@@ -17,3 +17,7 @@ https://github.com/algorand/sandbox
 ```
 ./sandbox up testnet
 ```
+5.Install algorand-python-sdk
+```
+pip3 install py-algorand-sdk
+```
