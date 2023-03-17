@@ -26,3 +26,7 @@ python3 scripts/create-wallet.py
 ```
 ### You should see some like this
 ![expected wallet](https://user-images.githubusercontent.com/90385824/225832695-d806e88b-7f44-4ebe-9479-53c38c027eb0.png)
+
+## Go and add some Algos to your newly created account.
+https://bank.testnet.algorand.network
+
