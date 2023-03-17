@@ -25,11 +25,14 @@ https://github.com/algorand/sandbox
 ```
 3. Workspace is ready for development.
 ![image](https://user-images.githubusercontent.com/90385824/225828440-0a0fffa6-53a3-433e-bd43-39a67da73585.png)
+
 4. Copy the following code to start the algorand sandbox
 ```
 ./sandbox up testnet
 ```
 <br>
+
+![sandbox final](https://user-images.githubusercontent.com/90385824/225876822-6437d59f-150d-4c84-8c20-ce7394df0b90.png)
 
 5. Install algorand-python-sdk
 ```
