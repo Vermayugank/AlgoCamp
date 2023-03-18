@@ -11,7 +11,7 @@ from algosdk.v2client import algod
 from pyteal import *
 
 # user declared account mnemonics
-creator_mnemonic = "tortoise pony provide gym cigar frost keen pen donate tired client gym clean embody myself exotic skill host risk hurdle liar allow vibrant absent matter"
+creator_mnemonic = "Replace_with_your_passphrase."
 
 # user declared algod connection parameters.
 algod_address = "http://localhost:4001"
