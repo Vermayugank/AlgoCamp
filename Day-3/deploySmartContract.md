@@ -1,6 +1,6 @@
 # AlgoCamp
 ## Day-3
-1. Create **deploy-smart-conctract.py** file in **scripts** folder.
+1. Create **deploy-smart-contract.py** file in **scripts** folder.
 
 ```
 import base64
