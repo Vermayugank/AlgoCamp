@@ -93,3 +93,8 @@ def main() :
 
 main()
 ```
+3. Execute the file.
+```
+python3 scripts/calling-smart-contract.py
+```
+
