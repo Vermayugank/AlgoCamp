@@ -197,3 +197,6 @@ def main() :
 
 main()
 ```
+```
+python3 scripts/deploy-smart-contract.py
+```
