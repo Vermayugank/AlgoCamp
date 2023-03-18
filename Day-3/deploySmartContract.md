@@ -198,5 +198,8 @@ def main() :
 main()
 ```
 ```
+pip3 install pyteal
+````
+```
 python3 scripts/deploy-smart-contract.py
 ```
