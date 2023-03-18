@@ -197,9 +197,11 @@ def main() :
 
 main()
 ```
+2. Install **pyteal** library
 ```
 pip3 install pyteal
-````
+```
+3. Execute the file.
 ```
 python3 scripts/deploy-smart-contract.py
 ```
