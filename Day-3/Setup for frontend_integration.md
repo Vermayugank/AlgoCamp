@@ -1,5 +1,5 @@
 ## API Key
-1. Create a account on **PureStake API** <br>
+1. Create an account on **PureStake API** <br>
   * https://developer.purestake.io
 ![image](https://user-images.githubusercontent.com/90385824/226829593-b8a14462-5018-4d14-8723-faa246df59b0.png)
 2. Fill the required details.<br>
@@ -8,3 +8,6 @@
 ![image](https://user-images.githubusercontent.com/90385824/226831797-0b8e2f95-b4da-43f3-979b-149c518c35a0.png)
 *Keep it safe, do not enclose it or post it publicly*
 ---
+## Replit Platform
+1. Create an account on **Replit**
+ * https://replit.com
